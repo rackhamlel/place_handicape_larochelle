@@ -1,5 +1,7 @@
 Bienvenue sur une Page Web des Places de Parking pour Handicapés a La Rochelle.
 
+https://rackhamlel.github.io/place_handicape_larochelle/
+
 Notre page internet permet d'accéder à des informations vitales concernant les places de parking réservées aux personnes handicapées dans La Rochelle. Nous avons créé cette ressource pour rendre votre vie plus facile et votre déplacement plus accessible.
 
 Le but est de trouver simplement via une map interactive une place handicapé dans la zone recherchée.
